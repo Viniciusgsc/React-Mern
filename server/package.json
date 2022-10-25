@@ -1,0 +1,20 @@
+{
+  "name": "react-mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viniciusgsc/React-Mern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viniciusgsc/React-Mern/issues"
+  },
+  "homepage": "https://github.com/Viniciusgsc/React-Mern#readme"
+}
